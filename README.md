@@ -18,9 +18,9 @@ Trabajo como Ingeniero en sistemas y desarrollador web, lo cual me inspira más 
 
 Aquí puedes encontrar algunos de mis proyectos:
 
-- [Proyecto 1](https://github.com/tu-usuario/proyecto-1)
-- [Proyecto 2](https://github.com/tu-usuario/proyecto-2)
-- [Proyecto 3](https://github.com/tu-usuario/proyecto-3)
+- [Pagina Web AutoAdministrable de Bienes raices](https://github.com/EVELIO0318/sistema_lotes)
+- [App de Tareas Sencilla ](https://github.com/EVELIO0318/app-tareas)
+- [Sistema de Reparación de Computadoras](https://github.com/EVELIO0318/Sistema-de-reparaciones)
 
 ¡Gracias por visitar mi perfil!
 
