@@ -26,6 +26,8 @@ Aquí puedes encontrar algunos de mis proyectos:
 
 ¡Conéctate conmigo en LinkedIn!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelio-josue-escobar-villeda-065088149/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelio-josue-escobar-villeda-065088149/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/escobar.evelio7/?hl=es)
+
 
 ¡Gracias por visitar mi perfil!
