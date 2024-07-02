@@ -1,40 +1,31 @@
-# Hola, Soy Evelio Escobar
+# 👨‍💻 Hola, Soy Evelio Escobar
 
-Trabajo como Ingeniero en sistemas y desarrollador web, lo cual me inspira más a seguir aprendiendo este hermoso mundo de la programación.
+Ingeniero en sistemas Bilingüe orientado a desarrollo web y Docente de Informática e Inglés.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Lenguajes y Tecnologías
 
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 
 ## 📂 Repositorios
 
 Aquí puedes encontrar algunos de mis proyectos:
 
-- [Pagina Web AutoAdministrable de Bienes raices](https://github.com/EVELIO0318/sistema_lotes)
-- [App de Tareas Sencilla ](https://github.com/EVELIO0318/app-tareas)
-- [Sistema de Reparación de Computadoras](https://github.com/EVELIO0318/Sistema-de-reparaciones)
+- [🏞️ Pagina Web AutoAdministrable de Bienes raices](https://github.com/EVELIO0318/sistema_lotes)
+- [📝 App de Tareas Sencilla](https://github.com/EVELIO0318/app-tareas)
+- [🛠️ Sistema de Reparación de Computadoras](https://github.com/EVELIO0318/Sistema-de-reparaciones)
+
+## 🌐 Redes Sociales
+
+¡Conéctate conmigo en LinkedIn!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelio-josue-escobar-villeda-065088149/)
 
 ¡Gracias por visitar mi perfil!
-
-<!--
-**EVELIO0318/EVELIO0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
