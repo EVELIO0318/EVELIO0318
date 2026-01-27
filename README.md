@@ -21,6 +21,8 @@ Aquí puedes encontrar algunos de mis proyectos:
 - [🏞️ Pagina Web AutoAdministrable de Bienes raices](https://github.com/EVELIO0318/sistema_lotes)
 - [📝 App de Tareas Sencilla](https://github.com/EVELIO0318/app-tareas)
 - [🛠️ Sistema de Reparación de Computadoras](https://github.com/EVELIO0318/Sistema-de-reparaciones)
+- [🌴 Sistema de Vacaciones - Frontend](https://github.com/EVELIO0318/vacaciones-fronted)
+- [⚙️ Sistema de Vacaciones - Backend](https://github.com/EVELIO0318/vacaciones-backend)
 
 ## 🌐 Redes Sociales
 
