@@ -13,6 +13,7 @@ Ingeniero en sistemas Bilingüe orientado a desarrollo web y Docente de Informá
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ## 📂 Repositorios
 
