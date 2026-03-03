@@ -24,6 +24,8 @@ Aquí puedes encontrar algunos de mis proyectos:
 - [🛠️ Sistema de Reparación de Computadoras](https://github.com/EVELIO0318/Sistema-de-reparaciones)
 - [🌴 Sistema de Vacaciones - Frontend](https://github.com/EVELIO0318/vacaciones-fronted)
 - [⚙️ Sistema de Vacaciones - Backend](https://github.com/EVELIO0318/vacaciones-backend)
+- [📡 Sistema de Monitoreo - Fronted](https://github.com/EVELIO0318/monitoreo_fronted)
+- [📶 Sistema de Monitoreo - Backend](https://github.com/EVELIO0318/monitoreo_backend)
 
 ## 🌐 Redes Sociales
 
